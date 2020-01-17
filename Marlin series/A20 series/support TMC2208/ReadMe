@@ -1,1 +1,4 @@
 Firmware supporting TMC2208
+1.TMC(XYZ)->Support xyz axis
+2.TMC(XYZE)->Support xyze axis
+
